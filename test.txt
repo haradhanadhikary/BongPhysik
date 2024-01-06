@@ -1,1 +1,5 @@
 Hello I am ready to work
+git init
+git add file name
+git commit -m "initial commit"
+git push origin main
